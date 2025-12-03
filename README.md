@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faizal Ahmed
 
-💻 Computer Science enthusiast | 🐧 Linux Explorer | 🔧 Automation & Networking Geek
+💻 Computer Science Enthusiast | 🐧 Linux Explorer | 🔧 Automation & Networking Geek
 
 ---
 
@@ -23,7 +23,7 @@
 
 
 ## 🌐 Connect with Me
-- 📧 Email: faizalahmed988@gmail.com  
+- 📧 Email: faizalahmed988@outlook.com 
 - 🔗 GitHub: [github.com/faizalahmed804](https://github.com/faizalahmed804)  
 - 📍 Location: Bengaluru, India  
 
